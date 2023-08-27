@@ -605,6 +605,10 @@
 					background-color: #FAFAFA;
 				}
 
+				&.fa-envelope {
+					background-color: #FAFAFA;
+				}
+
 				&.fa-rss {
 					background-color: #F2600B;
 				}
@@ -1116,12 +1120,14 @@
 
 				&.style1 {
 					max-width: 32em;
+					// max-height: 60em;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
 
 				&.style2 {
 					max-width: 32em;
+					// max-height: 60px;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
